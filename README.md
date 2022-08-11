@@ -1,9 +1,10 @@
+<div style="text-align:center">
 - 👋 Hi, I’m @iamseung
 - 👀 I’m interested in BE (PHP & Java)
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+</div>
 <!---
 iamseung/iamseung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
