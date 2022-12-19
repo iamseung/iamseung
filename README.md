@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @iamseung
-- 👀 I’m interested in BE (PHP & Java)
+- 👋 Hi, I’m @iamseung, I work as a PHP developer
+- 👀 I’m interested in BE (PHP & JAVA)
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
