@@ -1,1 +1,14 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamseung%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<p>
+  <a href="mailto:seungseok1004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://seung-seok.tistory.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white"/></a>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamseung&theme=default"/>
+</p>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{iamseung}"/>
+</a>
+
+---
