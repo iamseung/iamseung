@@ -7,8 +7,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamseung&theme=default"/>
 </p>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{iamseung}"/>
-</a>
-
 ---
