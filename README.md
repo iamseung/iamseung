@@ -13,7 +13,7 @@
 
 Java, Spring Boot, JPA, MySQL, MSSQL, MongoDB, Redis, AWS, Docker, PHP, Laravel
 
-<h3> 🔥 Steady</h3>
+<h3> ⛓️ Steady</h3>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamseung&theme=default"/>
 </p>
