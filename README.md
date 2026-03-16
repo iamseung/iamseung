@@ -11,7 +11,7 @@
 
 <h3> ✅ Tech Stack</h3>
 
-Java, Spring Boot, JPA, MySQL, MSSQL, MongoDB, Redis, AWS, Docker, PHP, Laravel
+Java, Spring Boot, JPA, MySQL, Redis, MongoDB, AWS, Docker, PHP, Laravel
 
 <h3> ⛓️ Steady</h3> 
 <p>
